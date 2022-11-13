@@ -5,4 +5,5 @@ Data Analysis with Image Processing
 
 <strong>[Jupyter Notebook Viewer](https://nbviewer.org/github/skiddieahn/Study-Data-Analysis/tree/master/)</strong>로 접속시 원할한 이용이 가능합니다!!
 
-* <strong>duck-farm-604</strong>: Duck 데이터셋 분석
+* <strong>duck-farm-604</strong>: Duck 데이터셋 분석 
+* <strong>ucsd-ped1-24</strong>: UCSD PED1 영상 분석 (Ganomaly)
