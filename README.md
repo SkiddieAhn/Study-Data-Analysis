@@ -8,3 +8,5 @@ Data Analysis with Image Processing
 * <strong>duck-farm-604</strong>: Duck 데이터셋 분석 (SmartFarm Assignment)
 * <strong>ucsd-ped1-24</strong>: UCSD PED1 영상 분석 (Ganomaly Project)
 * <strong>svd-study</strong>: SVD를 이용한 행렬 표현, 영상 압축 (Deep Learning Study)
+* <strong>brats-seg</strong>: BraTS2021 - MRI 영상 분석 (Segmentation)
+
