@@ -9,4 +9,4 @@ Data Analysis with Image Processing
 * <strong>ucsd-ped1-24</strong>: UCSD PED1 영상 분석 (Ganomaly Project)
 * <strong>svd-study</strong>: SVD를 이용한 행렬 표현, 영상 압축 (Deep Learning Study)
 * <strong>brats-seg</strong>: BraTS2021 영상 분석 (Brain Tumor Segmentation)
-
+* <strong>btcv-seg</strong>: BTCV2015 영상 분석 (CT Image Segmentation)
