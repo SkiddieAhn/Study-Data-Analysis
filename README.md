@@ -10,3 +10,4 @@ Data Analysis with Image Processing
 * <strong>svd-study</strong>: SVD를 이용한 행렬 표현, 영상 압축 (Deep Learning Study)
 * <strong>brats-seg</strong>: BraTS2021 영상 분석 (Brain Tumor Segmentation)
 * <strong>btcv-seg</strong>: BTCV2015 영상 분석 (CT Image Segmentation)
+* <strong>video-anomaly-detection</strong>: 미래 프레임 예측을 통한 비디오 이상 감지 모델 결과 분석 (ped2, avenue, shanghai)
