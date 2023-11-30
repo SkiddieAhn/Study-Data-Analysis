@@ -9,7 +9,7 @@
 * <strong>btcv-seg</strong>: BTCV2015 영상 분석 (CT Image Segmentation)
 * <strong>video-anomaly-detection</strong>: 미래 프레임 예측을 통한 비디오 이상 감지 모델 결과 분석 (ped2, avenue, shanghai)
 
-## 📖 Reference
+## 👋 Tip
 <strong>[Jupyter Notebook Viewer](https://nbviewer.org/github/skiddieahn/Study-Data-Analysis/tree/master/)</strong>로 접속시 원할한 이용이 가능합니다!
 
 
